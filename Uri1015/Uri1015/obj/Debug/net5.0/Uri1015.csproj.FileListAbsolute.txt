@@ -1,0 +1,16 @@
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\bin\Debug\net5.0\Uri1015.exe
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\bin\Debug\net5.0\Uri1015.deps.json
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\bin\Debug\net5.0\Uri1015.runtimeconfig.json
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\bin\Debug\net5.0\Uri1015.runtimeconfig.dev.json
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\bin\Debug\net5.0\Uri1015.dll
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\bin\Debug\net5.0\ref\Uri1015.dll
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\bin\Debug\net5.0\Uri1015.pdb
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.csproj.AssemblyReference.cache
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.AssemblyInfoInputs.cache
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.AssemblyInfo.cs
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.dll
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\ref\Uri1015.dll
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.pdb
+C:\Users\Tiago Souza\source\repos\DesafiosUri\Uri1015\Uri1015\obj\Debug\net5.0\Uri1015.genruntimeconfig.cache

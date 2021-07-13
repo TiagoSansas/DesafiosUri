@@ -16,7 +16,6 @@ namespace Uri1014
 
             Console.WriteLine($"{distancia:F3} km/l");
 
-
         }
     }
 }
