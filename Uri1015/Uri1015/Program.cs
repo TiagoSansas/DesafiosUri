@@ -19,7 +19,6 @@ namespace Uri1015
             distancia = Math.Sqrt((Math.Pow((X2 - X1), 2) + (Math.Pow((Y2 - Y1), 2))));
 
             Console.WriteLine($"{distancia:F4}");
-
         }
     }
 }
